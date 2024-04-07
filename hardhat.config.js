@@ -9,13 +9,13 @@ module.exports = {
     optimism: {
       url: `https://sepolia.optimism.io`,
       accounts: {
-        mnemonic: "subway tray panda three indoor eyebrow grit sunset cannon trophy slush wealth"
+        mnemonic: ""
       }
     },
     base: {
       url: `https://sepolia.base.org`,
       accounts: {
-        mnemonic: "subway tray panda three indoor eyebrow grit sunset cannon trophy slush wealth"
+        mnemonic: ""
       }
     },
   },
